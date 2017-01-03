@@ -1,2 +1,2 @@
-# Streamline-Vorticity
-Visualizes the streamline function
+# Spectral Method
+a spectral integrator that handles 2 dimensional pdes
